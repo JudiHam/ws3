@@ -1,7 +1,6 @@
 //ASSIGNMENT: 1. call JSON API from the web, parse it and output on the console.
 //Create a web server and query for your favourite movies/series and parse the output as an HTML table on the browser.
 //HTML formatted table to the browser. 
-//Notice that the resultset has an image link, make sure your HTML code renders it nicely. 
 //API KEY http://www.omdbapi.com/?t=hangover&apikey=b4f5e62f
 
 const PORT = process.env.PORT || 5000;
